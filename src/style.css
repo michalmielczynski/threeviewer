@@ -1,0 +1,10 @@
+body {
+  margin: 0;
+  overflow: hidden;
+  font-family: sans-serif;
+}
+
+#viewer {
+  width: 100%;
+  height: calc(100vh - 40px);
+}
